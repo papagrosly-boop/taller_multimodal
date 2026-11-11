@@ -1,0 +1,26 @@
+{
+  "imagen_01.png": {
+    "titulo": "Architecture Development Cycle",
+    "numero_figura": "Figure 5-1",
+    "tipo_elemento": "diagrama",
+    "idioma": "inglés",
+    "derechos_autor": null,
+    "cantidad_bloques": 10
+  },
+  "imagen_02.png": {
+    "titulo": null,
+    "numero_figura": null,
+    "tipo_elemento": "diagrama",
+    "idioma": "inglés",
+    "derechos_autor": "© The Open Group",
+    "cantidad_bloques": 5
+  },
+  "imagen_04.png": {
+    "titulo": "Plantilla estándar de Principios de Arquitectura (TOGAF)",
+    "numero_figura": null,
+    "tipo_elemento": "tabla",
+    "idioma": "español",
+    "derechos_autor": null,
+    "cantidad_bloques": 4
+  }
+}

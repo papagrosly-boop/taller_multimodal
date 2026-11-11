@@ -1,0 +1,19 @@
+imagen,campo,valor_real,valor_extraido,correcto
+imagen_01.png,titulo,Architecture Development Cycle,Architecture Development Cycle,Sí
+imagen_01.png,numero_figura,Figure 5-1,Figure 5-1,Sí
+imagen_01.png,tipo_elemento,diagrama,diagrama,Sí
+imagen_01.png,idioma,inglés,inglés,Sí
+imagen_01.png,derechos_autor,,,Sí
+imagen_01.png,cantidad_bloques,10,9,No
+imagen_02.png,titulo,,Architecture Continuum,No
+imagen_02.png,numero_figura,,,Sí
+imagen_02.png,tipo_elemento,diagrama,diagrama,Sí
+imagen_02.png,idioma,inglés,inglés,Sí
+imagen_02.png,derechos_autor,© The Open Group,© The Open Group,Sí
+imagen_02.png,cantidad_bloques,5,8,No
+imagen_03.png,titulo,,Plantilla estándar de Principios de Arquitectura (TOGAF),No
+imagen_03.png,numero_figura,,,Sí
+imagen_03.png,tipo_elemento,,tabla,No
+imagen_03.png,idioma,,español,No
+imagen_03.png,derechos_autor,,,Sí
+imagen_03.png,cantidad_bloques,,4,No
